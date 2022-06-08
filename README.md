@@ -1,2 +1,0 @@
-# AboutMe
-A Class Project
